@@ -1,2 +1,2 @@
 # E-COMMERCE-WEBSITE
-The website is a my First Project  i am a project with the help of HTML CSS AND JAVASRIPT
+A fully functional e-commerce website created using HTML, CSS, and JavaScript. This project demonstrates the development of a modern, responsive web application without using backend frameworks or libraries. Ideal for beginners exploring front-end web development and design.
